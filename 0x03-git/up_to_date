@@ -1,0 +1,16 @@
+GIT COMMAND LINE USED:
+git init
+mkdir
+touch
+rm
+mv
+git add .
+git status
+git commit -m
+git config
+git push
+git remote -v
+ls -la
+git checkout -b
+git checkout
+git pull...
